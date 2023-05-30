@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="183px" viewBox="0 0 168 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <circle id="path-1" cx="84" cy="84" r="84"></circle>
+        <circle id="path-3" cx="84" cy="69" r="84"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12" transform="translate(0.000000, 15.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <circle stroke="#16181C" cx="84" cy="84" r="83.5"></circle>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <circle stroke="#494D55" cx="84" cy="69" r="83.5"></circle>
+            <polygon id="🎨-Icon-Color" stroke="#072A99" stroke-width="2" mask="url(#mask-4)" transform="translate(84.000000, 69.000000) rotate(-45.000000) translate(-84.000000, -69.000000) " points="84 29 76.95 36.05 104.85 64 44 64 44 74 104.85 74 76.95 101.95 84 109 124 69"></polygon>
+        </g>
+    </g>
+</svg>
